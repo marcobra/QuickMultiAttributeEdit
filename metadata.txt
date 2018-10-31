@@ -12,7 +12,6 @@ email=marcobra.ubuntu@gmail.com
 
 ; start of optional metadata 
 changelog= 2014/05/23 v. 2.1.1 - Dress plugin icon duplicates on qgis plugins menu on plugin activate/deactivate.
-                                 Thank to Carlo Nicolini for testing
            2014/05/22 v. 2.1 - Dress error on selecting not vector layers and some unicode errors.
 
 
